@@ -1,6 +1,8 @@
 rshell
 =========
 
+support python version <= 3.12 on win; not support python >= 3.13;
+
 Remote MicroPython shell.
 
 This is a simple shell which runs on the host and uses MicroPython's
